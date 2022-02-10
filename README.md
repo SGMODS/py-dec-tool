@@ -1,11 +1,11 @@
 # py-dec-tool
 This is Python2 Decrypter Tool.
 ### How to use This Tool
-###Command
-$pkg install git -y
-$pkg install python2 -y
-$git clone https://github.com/sgmods/py-dec-tool.git
-$cd py-dec
-$python2 py-dec.py
+<p>###Command</p></br>
+$pkg install git -y</br>
+$pkg install python2 -y </br>
+$git clone https://github.com/sgmods/py-dec-tool.git </br>
+$cd py-dec </br>
+$python2 py-dec.py </br>
 
 MADE BY SGMODS
